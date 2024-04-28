@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=dellixx" /> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/dellixx/count.svg" /> </div>
+
